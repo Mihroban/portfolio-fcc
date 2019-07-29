@@ -294,3 +294,16 @@ footer{
   right: 15%;
 }
 }
+@media only screen and (max-width: 680px){
+  .project-header{
+    font-size: 1.4rem;
+    width: 60%;
+  }
+  .grid-container{
+    grid-template-columns: auto;
+  }
+.rotation span{
+  position: absolute;
+  right: 5%;
+}
+}	
