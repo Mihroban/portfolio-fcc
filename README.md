@@ -1,2 +1,2 @@
 # portfolio-fcc
-Check out the portfolio using the link: <https://mihroban.github.io/portfolio-fcc/>
+Check out the portfolio [at this link](https://mihroban.github.io/portfolio-fcc/)
